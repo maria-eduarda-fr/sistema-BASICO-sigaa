@@ -1,1 +1,4 @@
-# sistema-BASICO-sigaa
+# sistema BASICO sigaa
+###Classes:
+*Cursos
+*Disciplina
