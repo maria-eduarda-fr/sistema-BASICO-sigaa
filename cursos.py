@@ -42,3 +42,6 @@ class Curso():
                 raise ValueError('Carga_horaria_total deve conter no minimo 600 caracteres')
         else:
             raise TypeError('Carga_horaria_total deve ser interger')
+
+    def __str__(self):
+        
